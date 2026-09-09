@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Khoi 👋
 
-<!--
-**Khoi3303/Khoi3303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **3rd-year Software Engineering Student**  
+💻 Passionate about **Backend Development** (.NET / C#) & **Web Applications**  
+📫 **Email:** khoi18042006@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+- **Languages:** C#, JavaScript, Python, SQL
+- **Frameworks & Libs:** ASP.NET Core, Express.js, Entity Framework
+- **Databases:** SQL Server, MySQL
+- **Tools & Platforms:** Git, Docker, VS Code, Visual Studio
+
+---
+
+### 📌 Featured Projects
+- **[Note App](https://github.com/Khoi3303/note-app)**: Nền tảng ghi chú cá nhân hiện đại với xác thực người dùng, WebSocket realtime và responsive UI.
+- **[Ticket Vendor Machine Demo](https://github.com/Khoi3303/TicketVendorMachine_Demo)**: Ứng dụng mô phỏng quy trình bán vé tự động viết bằng C#.
+
+---
+
+![Khoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khoi3303&show_icons=true&theme=tokyonight)
