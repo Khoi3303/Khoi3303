@@ -20,4 +20,4 @@
 
 ---
 
-![Khoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khoi3303&show_icons=true&theme=tokyonight)
+[![Khoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khoi3303&show_icons=true&theme=radical)](https://github.com/Khoi3303)
