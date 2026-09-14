@@ -18,6 +18,7 @@
 - **[Note App](https://github.com/Khoi3303/note-app)**: Nền tảng ghi chú cá nhân hiện đại với xác thực người dùng, WebSocket realtime và responsive UI.
 - **[Ticket Vendor Machine Demo](https://github.com/Khoi3303/TicketVendorMachine_Demo)**: Ứng dụng mô phỏng quy trình bán vé tự động viết bằng C#.
 - **[Cloud Media Uploader API](https://github.com/Khoi3303/cloud-media-uploader-api)**: Microservice tối ưu và nén ảnh sang WebP on-the-fly, lưu trữ CDN Cloudinary bằng Node.js & Sharp.
+- **[Redis Rate Limiter & Caching Service](https://github.com/Khoi3303/redis-rate-limiter)**: High-performance microservice implementing Sliding Window traffic control & Cache-Aside pattern with Upstash Redis.
 
 ---
 
